@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\bin\Debug\Ex05_ConsoleUI.exe
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\bin\Debug\Ex05_ConsoleUI.pdb
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\bin\Debug\CheckersGame.dll
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\bin\Debug\CheckersGame.pdb
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\obj\Debug\Ex05_ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\obj\Debug\Ex05_GameSettingForm.GameSettingsForm.resources
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\obj\Debug\Ex05_ConsoleUI.Properties.Resources.resources
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\obj\Debug\Ex05_ConsoleUI.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\obj\Debug\Ex05_ConsoleUI.exe
+C:\Users\user\Desktop\Git-Projects\Checkers\Ex05_ConsoleUI\obj\Debug\Ex05_ConsoleUI.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Git-Projects\Checkers\CheckersGame\bin\Debug\CheckersGame.dll
+C:\Users\user\Desktop\Git-Projects\Checkers\CheckersGame\bin\Debug\CheckersGame.pdb
+C:\Users\user\Desktop\Git-Projects\Checkers\CheckersGame\obj\Debug\CheckersGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Git-Projects\Checkers\CheckersGame\obj\Debug\CheckersGame.dll
+C:\Users\user\Desktop\Git-Projects\Checkers\CheckersGame\obj\Debug\CheckersGame.pdb
