@@ -9,8 +9,6 @@ using SoldierKindEnum;
 
 namespace CheckersGameLogic
 {
-    // $G$ SFN-012 (+15) Bonus: Events in the Logic layer are handled by the UI.
-
     public delegate void LogicErrorNotifierDelegate();
 
      public delegate void LogicOperationNotifierDelegate(Soldier i_CurrentSoldier, Point i_SourcePoint, ref Point io_DestinationPoint, bool i_IsCaptureOption);
